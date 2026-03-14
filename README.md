@@ -1,4 +1,3 @@
-![SocLab](screenshots/soc detection.png)
 # Splunk – SOC Lab
 
 This repository documents my hands-on cybersecurity labs focused on blue-team detection, threat hunting, and SIEM analysis using splunk.
