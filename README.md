@@ -34,10 +34,6 @@ SIEM Server
 
 Detecting Nmap Network Scans using Sysmon Event ID 3 in Splunk.
 
-## Screenshots
-
-(Insert screenshots here)
-
 ## Tools Used
 
 - Splunk
