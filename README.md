@@ -2,7 +2,7 @@
 
 Welcome to my cybersecurity portfolio. This repository contains hands-on labs and projects demonstrating my skills in **security monitoring, threat detection, and SOC operations**.
 
-I built a home SOC lab to simulate attacks and investigate logs using industry tools such as **Splunk, Sysmon, and Kali Linux**.
+I built a multiple labs to simulate attacks and investigate logs using industry tools such as **Splunk, Sysmon, and Kali Linux**.
 
 ---
 
