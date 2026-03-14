@@ -1,15 +1,16 @@
-SplunkSoc-Lab
-SOC Lab using Splunk as SIEM
+# Splunk – SOC Lab
 
-This repository documents my hands-on cybersecurity labs focused on blue-team detection, threat hunting, and SIEM analysis.
+This repository documents my hands-on cybersecurity labs focused on blue-team detection, threat hunting, and SIEM analysis using splunk.
 
-Skills Demonstrated
+## Skills Demonstrated
 - SIEM Monitoring (Splunk)
 - Sysmon Log Analysis
 - Network Scan Detection
 - Threat Hunting
 - Log Ingestion
 - Security Monitoring
+
+## Lab Environment
 
 3 Virtual Machines:
 
@@ -21,6 +22,7 @@ Attacker Machine
 Victim Machine
 - Windows 10
 - Sysmon installed
+- Splunk Forwarder
 - Event logs generated
 
 SIEM Server
@@ -28,9 +30,18 @@ SIEM Server
 - Log ingestion
 - Detection queries
 
-Tools Used
+## Example Detection
+
+Detecting Nmap Network Scans using Sysmon Event ID 3 in Splunk.
+
+## Screenshots
+
+(Insert screenshots here)
+
+## Tools Used
+
 - Splunk
 - Sysmon
 - Kali Linux
-- Nmap
+- Network Scanning
 - VirtualBox
