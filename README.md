@@ -49,7 +49,7 @@ Topics covered:
 
 ### SOC Lab Screenshot
 
-![Sysmon Event Log](SOC-Lab/screenshots/sysmonlog1.png)
+![Sysmon Event Log](SOC-Lab/screenshots/soclab.png)
 
 ---
 
