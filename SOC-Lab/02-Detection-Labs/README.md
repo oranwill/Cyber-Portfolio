@@ -69,9 +69,9 @@ Monitoring PowerShell activity is important because it is commonly used in attac
 - downloading payloads
 - executing scripts
 - performing system discovery
-
----
-
+<img width="1026" height="729" alt="Image" src="https://github.com/user-attachments/assets/30c74339-616d-4ea1-bb80-e7c1e5b5aee3" />
+<img width="1191" height="611" alt="Image" src="https://github.com/user-attachments/assets/5ebe0a78-4514-4fd8-bf7e-0b4e0c80fc37" />
+<img width="1029" height="546" alt="Image" src="https://github.com/user-attachments/assets/4f131adf-8f93-43cd-83a1-e633661337b2" />
 ### Network Connection Monitoring
 
 Sysmon network events were reviewed to observe outbound connections initiated by processes on the host.
@@ -80,8 +80,8 @@ This type of monitoring helps identify:
 
 - suspicious outbound traffic
 - connections initiated by unexpected processes
-- potential command-and-control activity
-
+<img width="1027" height="680" alt="Image" src="https://github.com/user-attachments/assets/8df6d0a2-7e08-4b4d-85ad-0c793863fbe1" />
+<img width="1205" height="880" alt="Image" src="https://github.com/user-attachments/assets/58829a41-9120-46af-bfd3-93ab37c56cf8" />
 ---
 
 ### Suspicious Download Investigation
@@ -93,7 +93,8 @@ These events were investigated by reviewing:
 - process execution logs
 - associated network connections
 - related system activity
-
+<img width="1027" height="680" alt="Image" src="https://github.com/user-attachments/assets/f1e39a67-c989-4dec-9a97-61a4bf2f3018" />
+<img width="1204" height="820" alt="Image" src="https://github.com/user-attachments/assets/60164864-5f5e-41d4-ad5a-30c32b3fb4e5" />
 This process simulates how a SOC analyst investigates potential malware activity.
 
 ---
