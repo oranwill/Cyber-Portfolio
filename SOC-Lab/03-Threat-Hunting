@@ -1,0 +1,35 @@
+# Detecting Nmap Network Scans with Sysmon and Splunk
+
+## Objective
+Detect network scanning activity using Sysmon logs.
+
+## Lab Environment
+
+Attacker Machine
+- Kali Linux
+- Nmap scanning
+
+Victim Machine
+- Windows 10
+- Sysmon installed
+
+SIEM
+- Splunk
+
+## Attack Simulation
+
+Command used:
+
+nmap -sS 192.168.28.10
+
+## Logs Generated
+
+Sysmon Event ID 3
+
+## Detection Query
+
+index=sysmon EventCode=3
+
+## Evidence
+
+See screenshots folder
