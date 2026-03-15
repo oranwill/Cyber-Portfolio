@@ -49,7 +49,7 @@ Topics covered:
 
 ### SOC Lab Screenshot
 
-![Sysmon Event Log](SOC-Lab/screenshots/soclab.png)
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/6eecd660-9086-4e9d-998b-13892413bd7a" />
 
 ---
 
