@@ -57,7 +57,7 @@ Examples observed:
 - powershell.exe activity <img width="1008" height="721" alt="Image" src="https://github.com/user-attachments/assets/a6f558a7-ca5f-4ad8-ac16-8b50cd5db021" />
 - python processes <img width="1025" height="755" alt="Image" src="https://github.com/user-attachments/assets/9af7b83e-6267-4dc2-a6b5-c53eefc7d860" />
 
-These events allow analysts to identify suspicious or unexpected program execution.
+These events allowed me to analyze  and identify suspicious or unexpected program execution.
 
 ---
 
@@ -95,7 +95,7 @@ These events were investigated by reviewing:
 - related system activity
 <img width="1027" height="680" alt="Image" src="https://github.com/user-attachments/assets/f1e39a67-c989-4dec-9a97-61a4bf2f3018" />
 <img width="1204" height="820" alt="Image" src="https://github.com/user-attachments/assets/60164864-5f5e-41d4-ad5a-30c32b3fb4e5" />
-This process simulates how a SOC analyst investigates potential malware activity.
+This process simulated how I as a SOC analyst investigates potential malware activity.
 
 ---
 
