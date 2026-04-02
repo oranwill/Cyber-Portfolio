@@ -57,6 +57,7 @@ Topics covered:
 ### View Project
 
 ➡️ **[Splunk SOC Lab Documentation](SOC-Lab/README.md)**
+➡️ **[ELK SOC Lab Documentation](SOC-Lab/README.md)**
 
 ---
 
