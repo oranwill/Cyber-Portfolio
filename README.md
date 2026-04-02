@@ -2,7 +2,7 @@
 
 Welcome to my cybersecurity portfolio. This repository contains hands-on labs and projects demonstrating my skills in **security monitoring, threat detection, and SOC operations**.
 
-I built a multiple labs to simulate attacks and investigate logs using industry tools such as **Splunk, Sysmon, and Kali Linux**.
+I built a multiple labs to simulate attacks and investigate logs using industry tools such as **Splunk, Sysmon, ELK Stack and Kali Linux**.
 
 ---
 
@@ -22,6 +22,7 @@ I built a multiple labs to simulate attacks and investigate logs using industry 
 ## Tools & Technologies
 
 - Splunk
+- ELK Stack (Elastic, Logstash, Kibana)
 - Sysmon
 - Kali Linux
 - Windows 10
@@ -55,13 +56,13 @@ Topics covered:
 
 ### View Project
 
-➡️ **[SOC Lab Documentation](SOC-Lab/README.md)**
+➡️ **[Splunk SOC Lab Documentation](SOC-Lab/README.md)**
 
 ---
 
 ## Lab Environment
 
-My SOC lab consists of three virtual machines:
+My Splunk SOC lab consists of three virtual machines:
 
 **Attacker Machine**
 - Kali Linux
@@ -73,4 +74,19 @@ My SOC lab consists of three virtual machines:
 
 **SIEM**
 - Splunk
+- Used for log ingestion, monitoring, and analysis
+
+My ELK SOC lab consists of three virtual machines:
+
+**Attacker Machine**
+- Kali Linux
+- Used for attack simulation and network scanning
+
+**Victim Machine**
+- Windows 10
+- Sysmon installed for enhanced logging
+- WinLogbeat for enhanced logging
+
+**SIEM**
+- ELK Stack (Elastic, Logstash, Kibana)
 - Used for log ingestion, monitoring, and analysis
