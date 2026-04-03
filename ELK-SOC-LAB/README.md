@@ -1,4 +1,4 @@
-# SOC Lab
+# ELK Stack SOC Lab
 
 This folder contains documentation for my home SOC lab.
 
