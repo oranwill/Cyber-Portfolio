@@ -1,6 +1,6 @@
 # ELK Stack SOC Lab
 
-This folder contains documentation for my home SOC lab.
+This folder contains documentation for my home ELK SOC lab.
 
 ## Topics
 - Lab architecture
