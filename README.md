@@ -61,7 +61,7 @@ Topics covered:
 
 ---
 
-## Lab Environment
+## Labs Environments
 
 My Splunk SOC lab consists of three virtual machines:
 
