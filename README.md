@@ -56,8 +56,8 @@ Topics covered:
 
 ### View Project
 
-➡️ **[Splunk SOC Lab Documentation]([SOC-Lab/README.md](https://github.com/oranwill/Cyber-Portfolio/blob/main/README.md))**
-➡️ **[ELK SOC Lab Documentation](SOC-Lab/README.md)**
+➡️ **[Splunk SOC Lab Documentation](https://github.com/oranwill/Cyber-Portfolio/blob/main/Splunk-SOC-Lab/README.md)**
+➡️ **[ELK SOC Lab Documentation](https://github.com/oranwill/Cyber-Portfolio/blob/main/ELK-SOC-LAB/README.md)**
 
 ---
 
