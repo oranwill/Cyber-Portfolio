@@ -56,9 +56,9 @@ Topics covered:
 
 ### View Project
 
-➡️ **[Splunk SOC Lab Documentation](https://github.com/oranwill/Cyber-Portfolio/blob/main/Splunk-SOC-Lab/README.md)**
-➡️ **[ELK SOC Lab Documentation](https://github.com/oranwill/Cyber-Portfolio/blob/main/ELK-SOC-LAB/README.md)**
-
+➡️ **[Splunk SOC Lab Documentation](https://github.com/oranwill/Cyber-Portfolio/blob/main/Splunk-SOC-Lab/README.md)**  
+➡️ **[ELK SOC Lab Documentation](https://github.com/oranwill/Cyber-Portfolio/blob/main/ELK-SOC-LAB/README.md)**  
+➡️ **[AI SOC Lab Documentation](https://github.com/oranwill/Cyber-Portfolio/blob/main/AI%20SOC.md)**  
 ---
 
 ## Labs Environments
@@ -91,3 +91,23 @@ My ELK SOC lab consists of three virtual machines:
 **SIEM**
 - ELK Stack (Elastic, Logstash, Kibana)
 - Used for log ingestion, monitoring, and analysis
+
+MY AI SOC LAB consists of three virtual machines:
+
+**Attacker Machine**
+- Kali Linux
+- Used for attack simulation and network scanning
+
+**Victim Machine**
+- Windows 10
+- Sysmon installed for enhanced logging
+
+**SIEM**
+- Splunk
+- Used for log ingestion, monitoring, and analysis
+
+**AI**
+- Open AI
+- Used for A.I analysis of splunk queries 
+
+
