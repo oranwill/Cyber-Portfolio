@@ -61,7 +61,7 @@ These events allowed me to analyze  and identify suspicious or unexpected progra
 
 ---
 
-### PowerShell Activity
+## PowerShell Activity
 
 PowerShell execution events were reviewed to understand how scripts and commands are launched within the system.
 
@@ -72,7 +72,8 @@ Monitoring PowerShell activity is important because it is commonly used in attac
 <img width="1026" height="729" alt="Image" src="https://github.com/user-attachments/assets/30c74339-616d-4ea1-bb80-e7c1e5b5aee3" />
 <img width="1191" height="611" alt="Image" src="https://github.com/user-attachments/assets/5ebe0a78-4514-4fd8-bf7e-0b4e0c80fc37" />
 <img width="1029" height="546" alt="Image" src="https://github.com/user-attachments/assets/4f131adf-8f93-43cd-83a1-e633661337b2" />
-### Network Connection Monitoring
+
+## Network Connection Monitoring
 
 Sysmon network events were reviewed to observe outbound connections initiated by processes on the host.
 
@@ -84,7 +85,7 @@ This type of monitoring helps identify:
 <img width="1205" height="880" alt="Image" src="https://github.com/user-attachments/assets/58829a41-9120-46af-bfd3-93ab37c56cf8" />
 ---
 
-### Suspicious Download Investigation
+## Suspicious Download Investigation
 
 In the lab environment, potential suspicious download activity was observed and analyzed through Splunk logs.
 
