@@ -1,6 +1,6 @@
 # ELK Stack SOC Lab
 
-This folder contains documentation for my home ELK SOC lab.
+Built a Windows-based ELK SIEM environment to collect and analyze endpoint security telemetry using Sysmon, Winlogbeat, Elasticsearch, and Kibana. The lab focuses on KQL threat hunting, Windows process analysis, PowerShell investigation, event correlation, and SOC-style incident triage.
 
 ## Topics
 - Lab architecture
